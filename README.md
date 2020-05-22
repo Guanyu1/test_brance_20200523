@@ -42,4 +42,4 @@ scrapy文档非常详细，在此我就不详细讲解，你所能碰到的任�
 ## 效果图
 ![people](doc/people.png)
 ![relation](doc/relation.png)
-![image](doc/image.png)
+![image](doc/image.png)wgy
